@@ -1,0 +1,1 @@
+# forest_degradation_georgia
