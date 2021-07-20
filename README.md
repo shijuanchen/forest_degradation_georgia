@@ -28,6 +28,7 @@ The respository includes three parts, apps, codes and utilities.
      - Specify the start and end date in YYYY-MM-DD format, and the start and end day of a year in the analysis.
      - Select a index to display. NDFI and the fraction of endmembers will be used to run the CCDC-SMA model, but only the time series of the selected index will show up in the time series plot. 
      - Click a point on the map to display the time series and model fits. 
+     - Click a point on the time series to add the natural-looking Landsat image of this point.
      - You can also explore the pre-loaded four examples of forest degradation. In the search box, enter the id of examples (id ranges from 1 to 4). Click the red point on the map to display the time series of the examples.  
 2. codes
    - CCDC_SMA_advanced: This script allows users to run CCDC-SMA (advanced) directly without using the apps. The algorithm is the same with the one used in the apps.
