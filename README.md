@@ -21,7 +21,8 @@ The respository includes three parts, apps, codes and utilities.
      - Enter the GEE asset ids of your study region and forest mask. Click the "load data" buttons to add the inputs.
      - Specify the timing in the settings.
      - Similar to the advanced version, run CCDC-SMA, export and view the results. 
-   - Display_products_app:
+   - Display_products_app: The app displays the products of forest degradation, deforestation and land cover. 
+     - Click the "Display" buttons to display each product. For annual product, select a year to display.
    - Time_series_plotter:
 2. codes
    - CCDC_SMA_advanced
