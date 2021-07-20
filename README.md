@@ -2,7 +2,8 @@
 
 (Improvements to be made. Expected to be ready by August 15th, 2021.)
 
-Author: Shijuan Chen     Date: 07/20/2021
+Author: Shijuan Chen     
+Date: 07/20/2021
 
 Please click the link below to get access to the GEE repository named 'users/shijuanchen32/forest_degradation_georgia':
 https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/forest_degradation_georgia
