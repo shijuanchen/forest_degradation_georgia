@@ -24,7 +24,11 @@ The respository includes three parts, apps, codes and utilities.
      - Similar to the advanced version, run CCDC-SMA, export and view the results. 
    - Display_products_app: The app displays the products of forest degradation, deforestation and land cover. 
      - Click the "Display" buttons to display each product. For annual product, select a year to display.
-   - Time_series_plotter:
+   - Time_series_plotter: The app shows the Landsat time series and CCDC-SMA model fits. To run the app:
+     - Specify the start and end date in YYYY-MM-DD format, and the start and end day of a year in the analysis.
+     - Select a index to display. NDFI and the fraction of endmembers will be used to run the CCDC-SMA model, but only the time series of the selected index will show up in the time series plot. 
+     - Click a point on the map to display the time series and model fits. 
+     - You can also explore the pre-loaded four examples of forest degradation. In the search box, enter the id of examples (id ranges from 1 to 4). Click the red point on the map to display the time series of the examples.  
 2. codes
    - CCDC_SMA_advanced
    - CCDC_SMA_basic 
