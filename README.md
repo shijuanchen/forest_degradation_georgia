@@ -3,7 +3,7 @@
 Author: Shijuan Chen     
 Date: 07/21/2021
 
-This page is a description of the Google Earth Engine (GEE) repository to run the Continuous Change Detection and Classification - Spectral Mixture Analysis (CCDC-SMA) algorithm in Chen et al., 2021. 
+This page is a description of the Google Earth Engine (GEE) repository to run the Continuous Change Detection and Classification - Spectral Mixture Analysis (CCDC-SMA) algorithm and display forest degradation products in the country of Georgia, explained in Chen et al., 2021. 
 
 Please click the link below to get access to the GEE repository to run CCDC-SMA:<br /> 
 https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/forest_degradation_georgia
