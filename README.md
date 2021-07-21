@@ -1,5 +1,6 @@
 # Monitoring Temperate Forest Degradation on Google Earth Engine Using Landsat Time Series Analysis
-
+ 
+(Improvements to be made. Expected to be ready by 08/15/2021)
 Author: Shijuan Chen     
 Date: 07/21/2021
 
