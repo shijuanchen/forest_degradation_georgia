@@ -8,7 +8,7 @@ This page is a description of the Google Earth Engine (GEE) repository to run th
 Please click the link below to get access to the GEE repository to run CCDC-SMA:<br /> 
 https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/forest_degradation_georgia
 
-Please cite the code as: Chen, S., Woodcock, CE., Bullock E., Arevalo, P., Torchinava, P., Peng, S. and Olofsson P. (2021). Monitoring Temperate Forest Degradation on Google Earth Engine Using Landsat Time Series Analysis. Remote Sensing of Environment. (In Minor Revision)
+Please cite the code as: Chen, S., Woodcock, CE., Bullock E., Arevalo, P., Torchinava, P., Peng, S. and Olofsson P. (2021). Monitoring Temperate Forest Degradation on Google Earth Engine Using Landsat Time Series Analysis. Remote Sensing of Environment.
 
 The respository includes three parts, apps, codes and utilities. 
 1. apps
