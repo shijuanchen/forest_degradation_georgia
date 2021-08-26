@@ -18,6 +18,7 @@ The respository includes three parts, apps, codes and utilities.
       - Check the boxes to export the results as assets in GEE. The default only export the first year of disturbance, since the full segment results will take longer to export.
       - Click "Run CCDC-SMA" to create an export task in the Code Editor Tasks tab. Click the Run button next to the task to start it. 
       - After the task is finished, enter the GEE asset id of the disturbance year and click "view year of change" to display.
+![Image of CCDC_SMA_advanced_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC-SMA_advanced_version.png)
    - CCDC_SMA_basic_app: This app runs the CCDC-SMA model (basic version). To run the basic version, you only need a forest mask and classification of different forest types is not required. To run this app:
      - Enter the GEE asset ids of your study region and forest mask. Click the "load data" buttons to add the inputs.
      - Specify the timing in the settings.
