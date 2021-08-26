@@ -24,7 +24,7 @@ The GEE respository includes three parts, apps, codes and utilities.
      - Similar to the advanced version, run CCDC-SMA, export and view the results. 
    - Display_products_app: ![Display_products_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_products.png) This app displays the products of forest degradation, deforestation and land cover. 
      - Click the "Display" buttons to display each product. For annual product, select a year to display.
-   - Time_series_plotter: ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_CCDC_SMA.png)This app shows the Landsat time series and CCDC-SMA model fits. To run the app:
+   - Time_series_plotter: ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_CCDC_SMA.png)![Time_series_plotter] (https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_CCDC_SMA_an.png) This app shows the Landsat time series and CCDC-SMA model fits. To run the app:
      - Specify the start and end date in YYYY-MM-DD format, and the start and end day of a year in the analysis.
      - Select a index to display. NDFI and the fraction of endmembers will be used to run the CCDC-SMA model, but only the time series of the selected index will show up in the time series plot. 
      - Click a point on the map to display the time series and model fits. 
