@@ -9,6 +9,7 @@ Please click the link below to get access to the GEE repository to run CCDC-SMA:
 https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/forest_degradation_georgia
 
 Please cite the code as: [Chen, S., Woodcock, C.E., Bullock, E.L., Arévalo, P., Torchinava, P., Peng, S. and Olofsson, P., 2021. Monitoring temperate forest degradation on Google Earth Engine using Landsat time series analysis. Remote Sensing of Environment, 265, p.112648.](https://www.sciencedirect.com/science/article/pii/S0034425721003680) 
+
 [Click here to get 50-day free access without registration](https://authors.elsevier.com/a/1devg7qzStnwW)
 
 The GEE repository includes three parts, apps, codes and utilities. 
