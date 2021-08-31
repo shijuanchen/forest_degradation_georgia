@@ -27,7 +27,7 @@ The GEE repository includes three parts, apps, codes and utilities.
    - Time_series_plotter: ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_CCDC_SMA.png)
    ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_CCDC_SMA_an.png) This app shows the Landsat time series and CCDC-SMA model fits. To run the app:
      - Specify the start and end date in YYYY-MM-DD format, and the start and end day of a year in the analysis.
-     - Select a index to display. NDFI and the fraction of endmembers will be used to run the CCDC-SMA model, but only the time series of the selected index will show up in the time series plot. 
+     - Select an index to display. NDFI and the fraction of endmembers will be used to run the CCDC-SMA model, but only the time series of the selected index will show up in the time series plot. 
      - Click a point on the map to display the time series and model fits. 
      - Click a point on the time series to add the natural-looking Landsat image of this point.
      - You can also explore the pre-loaded four examples of forest degradation. In the search box, enter the id of examples (id ranges from 1 to 4). Click the red point on the map to display the time series of the examples.  
@@ -36,9 +36,9 @@ The GEE repository includes three parts, apps, codes and utilities.
    - CCDC_SMA_advanced: This script allows users to run CCDC-SMA (advanced) directly without using the apps. The algorithm is the same with the one used in the apps.
    - CCDC_SMA_basic: This script allows users to run CCDC-SMA (basic) directly without using the apps. The algorithm is the same with the one used in the apps.
 3. utilities
-   - ut_CCDC_SMA: functions to retrive CCDC-SMA coefficients. 
+   - ut_CCDC_SMA: functions to retrieve CCDC-SMA coefficients. 
    - ut_plotter_search: functions used in the time series plotter
-   - ut_workflow: functions functions used to run the CCDC-SMA and classify segments.
+   - ut_workflow: functions used to run the CCDC-SMA and classify segments.
 
 
 
