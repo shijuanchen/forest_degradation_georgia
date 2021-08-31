@@ -10,7 +10,7 @@ https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/forest_degr
 
 Please cite the code as: Chen, S., Woodcock, CE., Bullock E., Arévalo, P., Torchinava, P., Peng, S. and Olofsson P. (2021). Monitoring Temperate Forest Degradation on Google Earth Engine Using Landsat Time Series Analysis. Remote Sensing of Environment. [50-day free access without registration](https://authors.elsevier.com/a/1devg7qzStnwW)
 
-The GEE respository includes three parts, apps, codes and utilities. 
+The GEE repository includes three parts, apps, codes and utilities. 
 1. apps
     - CCDC_SMA_advanced_app: ![Image of CCDC_SMA_advanced_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC-SMA_advanced_version.png) This app runs the CCDC-SMA model (advanced version). The advanced version uses different indices and thresholds for different types of forests, explained in the paper. To run this app:
       - Enter the GEE asset ids of your study region and forest mask, and specify the value of forest types in the forest mask. Click the "load data" button to add a layer of study region, and "load forest mask" to add a layer of different forest types. 
