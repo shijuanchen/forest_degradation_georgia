@@ -38,6 +38,8 @@ The GEE repository includes three parts, apps, codes and utilities.
 2. codes
    - CCDC_SMA_advanced: This script allows users to run CCDC-SMA (advanced) directly without using the apps. The algorithm is the same with the one used in the apps.
    - CCDC_SMA_basic: This script allows users to run CCDC-SMA (basic) directly without using the apps. The algorithm is the same with the one used in the apps.
+   - CCDC_run: This is an example script to run CCDC by grid. You can also change the "saveRegion" to a region. To be able to run this code, you will need to use your own grid or region.
+   - CCDC_land_cover_classification: This is an example script of using training data and CCDC coefficients to create land cover maps. To run the code, you will need to use the CCDC assets from "CCDC_run".
 3. utilities
    - ut_CCDC_SMA: functions to retrieve CCDC-SMA coefficients. 
    - ut_plotter_search: functions used in the time series plotter
