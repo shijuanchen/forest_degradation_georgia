@@ -2,7 +2,7 @@
 
 # CCDC-SMA Guidance
 
-[Updates: New apps of CCDC-SMA are under developing and will be avaliable soon. The current apps and codes will not be affected.]
+[Updates: New apps of CCDC-SMA are under developing and will be avaliable soon (before AGU 2021). The current apps and codes will not be affected.]
 
 Author: Shijuan Chen     
 Date: 10/19/2021
