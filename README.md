@@ -9,7 +9,7 @@ Date: 10/19/2021
 
 This is a guideline of monitoring forest degradation using the Continuous Change Detection and Classification - Spectral Mixture Analysis (CCDC-SMA) algorithm, visualizing the time series of CCDC-SMA model fits and displaying forest degradation products on Google Earth Engine (GEE), explained in Chen et al., 2021. 
 
-Please click the link below to get access to the GEE repository to run CCDC-SMA:<br /> 
+Please click the link below to get access to the GEE repository to run CCDC-SMA (See the "Reader" section under the "Script" tab):<br /> 
 https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/forest_degradation_georgia
 (If you are not a GEE user and interested in the apps, please visit: https://shijuanchen32.users.earthengine.app/)
 
