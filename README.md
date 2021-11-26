@@ -16,7 +16,7 @@ https://code.earthengine.google.com/?accept_repo=users/shijuanchen32/forest_degr
 
 Please cite the code as: [Chen, S., Woodcock, C.E., Bullock, E.L., Arévalo, P., Torchinava, P., Peng, S. and Olofsson, P., 2021. Monitoring temperate forest degradation on Google Earth Engine using Landsat time series analysis. Remote Sensing of Environment, 265, p.112648.](https://www.sciencedirect.com/science/article/pii/S0034425721003680) 
 
-[Click here to get 50-day free access to view and download the full-text of the paper without registration](https://authors.elsevier.com/a/1devg7qzStnwW)
+Please email me at shijuan@bu.edu to request a pdf copy of the full text if you don't have access to Elsevier. 
 
 The GEE repository includes three parts, apps, codes and utilities. 
 1. apps
