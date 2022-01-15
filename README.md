@@ -2,8 +2,6 @@
 
 # CCDC-SMA Guidance
 
-[Updates: New apps of CCDC-SMA are under developing and will be avaliable soon. The new apps will use a version of CCDC-SMA that works better in the tropics. The current apps and codes will not be affected.]
-
 Author: Shijuan Chen     
 Date: 10/19/2021
 
