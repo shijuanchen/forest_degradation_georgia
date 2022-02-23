@@ -47,7 +47,7 @@ The GEE repository includes three parts, apps, codes and utilities.
 3. utilities
    - ut_CCDC_SMA: functions to retrieve CCDC-SMA coefficients. 
    - ut_plotter_search: functions used in the time series plotter
-   - ut_workflow: functions used to run the CCDC-SMA and classify segments.
+   - **ut_workflow**: functions used to run the CCDC-SMA and classify segments.
 
 
 
