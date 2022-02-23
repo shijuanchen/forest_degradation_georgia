@@ -2,7 +2,7 @@
 
 # CCDC-SMA Guidance
 
-### 02/23/2022 Updates: A script called "Create_grid" has been added to allow users to create grids.
+### Updates (02/23/2022): A script called "Create_grid" has been added to allow users to create grids.
 
 Author: Shijuan Chen     
 Date: 02/23/2022
