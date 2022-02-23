@@ -2,8 +2,10 @@
 
 # CCDC-SMA Guidance
 
+###### 02/23/2022 Updates: A script called "Create_grid" has been added to allow users to create grids.
+
 Author: Shijuan Chen     
-Date: 10/19/2021
+Date: 02/23/2022
 
 This is a guideline of monitoring forest degradation using the Continuous Change Detection and Classification - Spectral Mixture Analysis (CCDC-SMA) algorithm, visualizing the time series of CCDC-SMA model fits and displaying forest degradation products on Google Earth Engine (GEE), explained in Chen et al., 2021. 
 
