@@ -2,7 +2,7 @@
 
 # CCDC-SMA Guidance
 
-### Updates (02/23/2022): A script called "Create_grid" has been added to allow users to create grids.
+### 🎉 News (02/23/2022): Now you can run CCDC-SMA by grid. Use "Create_grid" to create a grid and use "CCDC_SMA_basic_by_grid" or "CCDC_SMA_advanced_by_grid" to run CCDC-SMA by grid
 
 Author: Shijuan Chen     
 Date: 02/23/2022
