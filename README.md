@@ -19,7 +19,7 @@ Please cite the code as: [Chen, S., Woodcock, C.E., Bullock, E.L., Arévalo, P.,
 Please email me at shijuan@bu.edu to request a pdf copy of the full text if you don't have access to Elsevier. 
 
 The GEE repository includes three parts, apps, codes and utilities. There will be different versions of CCDC-SMA for temperate forest and tropical forest, 
-and using Landsat Collection 1 and Collection 2. Currently, it is avaliable for temperate forest using Collection 1. 
+and using Landsat Collection 1 and Collection 2. Currently, it is avaliable for temperate forest using Collection 1 (Under folder "Temperate/Collection1"). 
 
 ## 1. apps
   - **CCDC_SMA_advanced_app**: ![Image of CCDC_SMA_advanced_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC-SMA_advanced_version.png) This app runs the CCDC-SMA model (advanced version). The advanced version uses different indices and thresholds for different types of forests, explained in the paper. To run this app:
