@@ -2,7 +2,7 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (02/23/2022): Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use "CCDC_SMA_basic_by_grid" or "CCDC_SMA_advanced_by_grid" to run CCDC-SMA by grid. The new versions of codes and apps for the tropics and Landsat collection2 will be avaliable soon.*
+### *🎉 News (02/23/2022): Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use "CCDC_SMA_basic_by_grid" or "CCDC_SMA_advanced_by_grid" to run CCDC-SMA by grid. The new versions of codes and apps for the tropics and Landsat collection2 will be available soon.*
 
 Author: Shijuan Chen     
 Date: 02/23/2022
