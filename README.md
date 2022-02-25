@@ -3,7 +3,7 @@
 # CCDC-SMA Guidance
 
 ### *🎉 News (02/23/2022):*
-#### *1. Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use the scripts under the folder named "codes".*
+#### *1. Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use the scripts ended with "by_grid" under the folder named "codes".*
 #### *2. A tropics version of CCDC-SMA is now available! See the scripts under the folder named "Tropics/Collection1".*
 #### *3. Landsat collection2 will be available soon.*
 
