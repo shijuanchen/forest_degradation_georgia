@@ -38,11 +38,14 @@ and using Landsat Collection 1 and Collection 2. Currently, it is avaliable for 
      - Enter the GEE asset ids of your study region and forest mask. Click the "load data" buttons to add the inputs.
      - Specify the timing in the settings.
      - Similar to the advanced version, run CCDC-SMA, export and view the results. 
+    
    - **CCDC_SMA_tropic_app**: ![CCDC_SMA_basic_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_tropic.png) This app runs the CCDC-SMA model (tropic version). To run the tropic version, you only need a forest mask and classification of different forest types is not required. To run this app:
      - Similar to the basic version and advanced version, run CCDC-SMA, export and view the results. 
      - Since gradual degradation is rare in the tropics as vegetation recovers fast, the otuput only include the year of the abrupt change. 
+  
    - **Display_products_app**: ![Display_products_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_products.png) This app displays the products of forest degradation, deforestation and land cover. 
      - Click the "Display" buttons to display each product. For annual product, select a year to display.
+  
    - **Time_series_plotter**: ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/Display_ts_tropic.png)
    ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_CCDC_SMA_an.png) This app shows the Landsat time series and CCDC-SMA model fits. To run the app:
      - Specify the start and end date in YYYY-MM-DD format, and the start and end day of a year in the analysis.
@@ -51,6 +54,8 @@ and using Landsat Collection 1 and Collection 2. Currently, it is avaliable for 
      - Click a point on the time series to add the natural-looking Landsat image of this point.
      - You can also explore the pre-loaded four examples of forest degradation. In the search box, enter the id of examples (id ranges from 1 to 4). Click the red point on the map to display the time series of the examples.  
      - Use "Reset" button to reset the map panel.
+     
+     
 ## 2. codes
    - **CCDC_SMA_advanced**: This script allows users to run CCDC-SMA (advanced) directly without using the apps. The algorithm is the same with the one used in the apps.
    - **CCDC_SMA_advanced_by_grid**: This script allows users to run CCDC-SMA (advanced) by grid. Use the script named "Creat_grid" to create grid first and then run this script. It is recommended to run CCDC-SMA by grid if your region is too large. 
@@ -59,6 +64,8 @@ and using Landsat Collection 1 and Collection 2. Currently, it is avaliable for 
    - **CCDC_run**: This is an example script to run CCDC (with the original) by grid. You can also change the "saveRegion" to a region. To be able to run this code, you will need to use your own grid or region. You can use the script "Create_grid" to create grids.
    - **CCDC_land_cover_classification**: This is an example script of using training data and CCDC coefficients to create land cover maps. To run the code, you will need to use the CCDC assets from "CCDC_run".
    - **Create_grid**: This script allows users to break a study region by grid. You can use the grids created from this script to run CCDC-SMA by grid. 
+
+
 ## 3. utilities
    - **ut_CCDC_SMA**: functions to retrieve CCDC-SMA coefficients. 
    - **ut_plotter_search**: functions used in the time series plotter
