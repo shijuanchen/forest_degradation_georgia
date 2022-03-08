@@ -46,7 +46,7 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
      - Click the "Display" buttons to display each product. For annual product, select a year to display.
   
    - **Time_series_plotter**: ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/Display_ts_tropic.png)
-   ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/Display_ts_temperate.png) This app shows the Landsat time series and CCDC-SMA model fits. To run the app:
+   ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_temperate_new.png) This app shows the Landsat time series and CCDC-SMA model fits. To run the app:
      - Specify the start and end date in YYYY-MM-DD format, and the start and end day of a year in the analysis.
      - Select an index to display. NDFI and the fraction of endmembers will be used to run the CCDC-SMA model, but only the time series of the selected index will show up in the time series plot. 
      - Click a point on the map to display the time series and model fits. 
