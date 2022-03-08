@@ -42,7 +42,7 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
      - Similar to the basic version and advanced version, run CCDC-SMA, export and view the results. 
      - Since gradual degradation is rare in the tropics as vegetation recovers fast, the outputs only include the years of the abrupt changes. 
   
-   - **Display_products_app**: ![Display_products_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_products.png) This app displays the products of forest degradation, deforestation and land cover. 
+   - **Display_products_app**: ![Display_products_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_product_new.png) This app displays the products of forest degradation, deforestation and land cover. 
      - Click the "Display" buttons to display each product. For annual product, select a year to display.
   
    - **Time_series_plotter**: ![Time_series_plotter](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/display_ts_tropic_new.png)
