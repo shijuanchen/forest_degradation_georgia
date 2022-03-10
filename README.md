@@ -34,7 +34,7 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
       - Click "Run CCDC-SMA" to create an export task in the Code Editor Tasks tab. Click the Run button next to the task to start it. 
       - After the task is finished, enter the GEE asset id of the disturbance year and click "view year of change" to display.
      
-   - **CCDC_SMA_basic_app**: ![CCDC_SMA_basic_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_temperate_basic.png) This app runs the CCDC-SMA model (temperate, basic version). To run the basic version, you only need a forest mask and classification of different forest types is not required. To run this app:
+   - **CCDC_SMA_basic_app**: ![CCDC_SMA_basic_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_temperate_basic_app.png) This app runs the CCDC-SMA model (temperate, basic version). To run the basic version, you only need a forest mask and classification of different forest types is not required. To run this app:
      - Enter the GEE asset ids of your study region and forest mask. Click the "load data" buttons to add the inputs.
      - Specify the timing in the settings.
      - Similar to the advanced version, run CCDC-SMA, export and view the results. 
