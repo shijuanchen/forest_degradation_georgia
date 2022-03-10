@@ -27,7 +27,7 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
 
 ## 1. apps
 
-  - **CCDC_SMA_advanced_app**: ![Image of CCDC_SMA_advanced_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_temperate_advanced.png) This app runs the CCDC-SMA model (temperate, advanced version). The advanced version uses different indices and thresholds for different types of forests, explained in the paper. To run this app:
+  - **CCDC_SMA_advanced_app**: ![Image of CCDC_SMA_advanced_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_temperate_advanced_app.png) This app runs the CCDC-SMA model (temperate, advanced version). The advanced version uses different indices and thresholds for different types of forests, explained in the paper. To run this app:
       - Enter the GEE asset ids of your study region and forest mask, and specify the value of forest types in the forest mask. Click the "load data" button to add a layer of study region, and "load forest mask" to add a layer of different forest types. 
       - Specify the start and end year of your study period, and the start and end day (in Julian dates) of a year to run analysis. 
       - Check the boxes to export the results as assets in GEE. The default setting would only export the first year of disturbance, since the full segment results will take longer to export.
