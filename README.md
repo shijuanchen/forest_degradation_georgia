@@ -3,7 +3,7 @@
 # CCDC-SMA Guidance
 
 ### *🎉 News (03/10/2022):*
-### * A minor improvement of the temperate versions is curently under development at 03/10/2022. Please wait until 03/11/2022 to use. The tropic version won't be affected. Thanks!
+### * A minor improvement is curently under development at 03/10/2022. Please wait until 03/11/2022 to use. Thanks!
 #### *1. Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use the scripts ended with "by_grid" under the folder named "codes".*
 #### *2. A tropics version of CCDC-SMA is now available! See the scripts under the folder named "Tropics/Collection1".*
 #### *3. Now you can change the threshold of detecting forest degradation in the apps and codes for all versions!*
