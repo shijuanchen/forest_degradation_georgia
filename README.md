@@ -3,7 +3,7 @@
 # CCDC-SMA Guidance
 
 ### *🎉 News (03/20/2022):*
-### * The bug of end and start day in the tropic versoin of the app will be fixed. A new feature to customize the number of consecutives for the tropic version will be added in 03/20. Please wait until 03/21/2022 to use.
+### * The bug of end and start day in the tropic versoin of the app has been fixed. A new feature to customize the number of consecutives for the tropic version has been added.
 #### *1. Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use the scripts ended with "by_grid" under the folder named "codes".*
 #### *2. A tropics version of CCDC-SMA is now available! See the scripts under the folder named "Tropics/Collection1".*
 #### *3. Now you can change the threshold of detecting forest degradation in the apps and codes for all versions!*
