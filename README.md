@@ -25,7 +25,7 @@ Please cite the code as: [Chen, S., Woodcock, C.E., Bullock, E.L., Arévalo, P.,
 
 Please email me at shijuan@bu.edu to request a pdf copy of the full text if you don't have access to Elsevier. 
 
-There are different versions of CCDC-SMA for temperate region (Under the folder named 'Temperate') and tropics (Under the folder named 'Tropics'). Each version has apps and codes to run CCDC-SMA. Currently, Landsat collection 1 data is used. In the future, new versions using Landsat collection 2 will be available soon. 
+There are different versions of CCDC-SMA for temperate region (Under the folder named 'Temperate') and tropics (Under the folder named 'Tropics'). Each version has apps and codes to run CCDC-SMA. Currently, Landsat collection 1 data is used. In the future, new versions using Landsat collection 2 will be available soon. If your study region is in the boreal forest, you can try either temperate or tropic versions.
 
 ## 1. apps
 
