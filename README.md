@@ -2,8 +2,8 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (03/20/2022):*
-### *A bug of the end and start day in the CCDC-SMA app (tropic version) has been fixed. A new feature to customize the number of consecutives for the CCDC-SMA app (tropic version) has been added.*
+### *🎉 News (04/11/2022 - 04/15/2022):*
+### * This week, I will be working on developing versions of CCDC-SMA using Landsat Collection 2. The existing codes won't be affected. Please wait until the end of this week to use Collection 2 versions.*
 
 ### *Previous news:*
 #### *1. Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use the scripts ended with "by_grid" under the folder named "codes".*
