@@ -5,7 +5,7 @@
 ### *🎉 News (04/13/2022):
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
-#### *3. A tropics version of CCDC-SMA is now available!.*
+#### *3. A tropics version of CCDC-SMA is now available!*
 #### *4. Now you can change the threshold of detecting forest degradation in the apps and codes for all versions!*
 
 Author: Shijuan Chen     
