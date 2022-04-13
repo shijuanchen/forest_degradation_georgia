@@ -2,14 +2,11 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (04/11/2022 - 04/15/2022):*
-### * This week, I will be working on developing versions of CCDC-SMA using Landsat Collection 2. The existing codes won't be affected. Please wait until the end of this week to use Collection 2 versions.*
-
-### *Previous news:*
-#### *1. Now you can run CCDC-SMA by grid! Use "Create_grid" to create a grid and use the scripts ended with "by_grid" under the folder named "codes".*
-#### *2. A tropics version of CCDC-SMA is now available! See the scripts under the folder named "Tropics/Collection1".*
-#### *3. Now you can change the threshold of detecting forest degradation in the apps and codes for all versions!*
-#### *4. CCDC-SMA using Landsat collection2 will be available soon.*
+### *🎉 News (04/13/2022):
+#### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
+#### *2. Now you can run CCDC-SMA by grid if your study area is large!*
+#### *3. A tropics version of CCDC-SMA is now available!.*
+#### *4. Now you can change the threshold of detecting forest degradation in the apps and codes for all versions!*
 
 Author: Shijuan Chen     
 Date: 02/23/2022
