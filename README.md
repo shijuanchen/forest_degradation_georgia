@@ -2,11 +2,11 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (04/15/2022 - 04/17/2022): A new feature of applying a change probability threshold is underdeveloping. Please wait until 04/18 to use. It is expected that the results will be improved. Some utility functions might be affected.
+### *🎉 News (04/19/2022): 
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
 #### *3. A tropics version of CCDC-SMA is now available!*
-#### *4. Now you can change the threshold of detecting forest degradation in the apps and codes for all versions!*
+#### *4. Now you can change the threshold and/or change probability of detecting forest degradation in the apps and codes for all versions!*
 
 Author: Shijuan Chen     
 Date: 02/23/2022
