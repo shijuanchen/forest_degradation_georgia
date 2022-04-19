@@ -2,7 +2,7 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (04/19/2022): 
+### *🎉 News (04/19/2022):* 
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
 #### *3. A tropics version of CCDC-SMA is now available!*
