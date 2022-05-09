@@ -2,7 +2,7 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (05/09/2022): CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2) and India (1).* 
+### *🎉 News (05/09/2022): CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1), Peru (1).* 
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
 #### *3. A tropics version of CCDC-SMA is now available!*
