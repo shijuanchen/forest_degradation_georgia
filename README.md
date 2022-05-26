@@ -73,6 +73,10 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
    - **ut_plotter_search**: functions used in the time series plotter
    - **ut_workflow**: functions used to run the CCDC-SMA and classify segments.
 
+## Supplementary materials:
+Monitoring forest degradation in Georgia
+https://youtu.be/Ayeo6JjjMAI
+
 ## Acknowledgement: 
   Many thanks to Dr. Eric L. Bullock, Dr. Paulo Arévalo, Dr. Xiaojing Tang for their help!
 
