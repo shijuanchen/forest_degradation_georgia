@@ -76,8 +76,8 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
    - **ut_workflow**: functions used to run the CCDC-SMA and classify segments.
 
 ## Supplementary materials:
-1. Monitoring forest degradation in Georgia: https://youtu.be/Ayeo6JjjMAI
-2. Lab of CCDC-SMA in GRS EE644/CAS EE 444 - Digital Image Processing at BU: https://drive.google.com/file/d/1602r0t90nYxB3aHQtKLPhpsmD2-E8QFc/view?usp=sharing . CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).
+1. A mini-documentary about monitoring forest degradation in Georgia: https://youtu.be/Ayeo6JjjMAI
+2. Lab instruction of CCDC-SMA in GRS EE644/CAS EE 444 - Digital Image Processing class: https://drive.google.com/file/d/1602r0t90nYxB3aHQtKLPhpsmD2-E8QFc/view?usp=sharing . CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).
 
 ## Acknowledgement: 
   Many thanks to Dr. Eric L. Bullock, Dr. Paulo Arévalo, Dr. Xiaojing Tang for their help!
