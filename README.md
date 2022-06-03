@@ -8,7 +8,7 @@
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
 #### *3. A tropics version of CCDC-SMA is now available!*
 #### *4. Now you can change the threshold and/or change probability of detecting forest degradation in the apps and codes for all versions!*
-#### *5. CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).*
+
 
 Author: Shijuan Chen     
 Date: 02/23/2022
@@ -77,7 +77,7 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
 
 ## Supplementary materials:
 1. Monitoring forest degradation in Georgia: https://youtu.be/Ayeo6JjjMAI
-2. Lab of CCDC-SMA in GRS EE644/CAS EE 444 - Digital Image Processing at BU: https://drive.google.com/file/d/1602r0t90nYxB3aHQtKLPhpsmD2-E8QFc/view?usp=sharing
+2. Lab of CCDC-SMA in GRS EE644/CAS EE 444 - Digital Image Processing at BU: https://drive.google.com/file/d/1602r0t90nYxB3aHQtKLPhpsmD2-E8QFc/view?usp=sharing . CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).
 
 ## Acknowledgement: 
   Many thanks to Dr. Eric L. Bullock, Dr. Paulo Arévalo, Dr. Xiaojing Tang for their help!
