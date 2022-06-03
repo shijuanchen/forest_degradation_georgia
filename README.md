@@ -3,11 +3,12 @@
 # CCDC-SMA Guidance
 
 ### *🎉 News (06/03/2022): Several scripts to prepare forest mask and create strata of forest degradation / deforestation / stable forest / non-forest were added to the "Optional" folder.* 
+#### *Previous updates*
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
 #### *3. A tropics version of CCDC-SMA is now available!*
 #### *4. Now you can change the threshold and/or change probability of detecting forest degradation in the apps and codes for all versions!*
-#### *5. CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).
+#### *5. CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).*
 
 Author: Shijuan Chen     
 Date: 02/23/2022
