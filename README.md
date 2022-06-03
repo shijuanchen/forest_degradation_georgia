@@ -2,11 +2,12 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (05/09/2022): CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).* 
+### *🎉 News (06/03/2022): Several scripts to prepare forest mask and create strata of forest degradation/deforestation/stable forest/non-forest were added to the "Optional" folder.* 
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
 #### *3. A tropics version of CCDC-SMA is now available!*
 #### *4. Now you can change the threshold and/or change probability of detecting forest degradation in the apps and codes for all versions!*
+#### *5. CCDC-SMA has been used in the students final projects in a digital image processing class in these regions: Canada (2), Madagascar (2), India (1) and Peru (1).
 
 Author: Shijuan Chen     
 Date: 02/23/2022
@@ -22,7 +23,7 @@ Please cite the code as: [Chen, S., Woodcock, C.E., Bullock, E.L., Arévalo, P.,
 
 Please email me at shijuan@bu.edu to request a pdf copy of the full text if you don't have access to Elsevier. 
 
-There are different versions of CCDC-SMA for temperate region (Under the folder named 'Temperate') and tropics (Under the folder named 'Tropics'). Each version has apps and codes to run CCDC-SMA. If your study region is in the boreal forest, you can try either temperate or tropic versions.
+There are different versions of CCDC-SMA for temperate region (Under the folder named 'Temperate') and tropics (Under the folder named 'Tropics'). Each version has apps and codes to run CCDC-SMA. If your study region is in the boreal forest, you can try either temperate or tropic versions. You can either use the scripts in "Optional" folder to create forest mask and strata or your own forest mask or land cover maps. 
 
 ## 1. apps
 
