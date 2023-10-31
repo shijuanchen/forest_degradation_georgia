@@ -1,7 +1,7 @@
 # Monitoring Forest Degradation on Google Earth Engine Using Landsat Time Series Analysis
 
 # CCDC-SMA Guidance
-Updates 06/29/2022 - 06/30/2022: I am working on improving the scripts in the "Optional" folder. Other scripts won't be affected.
+
 ### *🎉 News (06/03/2022): Several scripts to prepare forest mask and create strata of forest degradation, deforestation, stable forest and non-forest were added to the "Optional" folder.* 
 #### *Previous updates:*
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
