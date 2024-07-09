@@ -65,8 +65,6 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
    - **CCDC_SMA_basic_by_grid**: This script allows users to run CCDC-SMA (basic) by grid. Use the script named "Creat_grid" to create grid first and then run this script. It is recommended to run CCDC-SMA by grid if your region is too large. 
    - **CCDC_SMA_tropic**: This script allows users to run CCDC-SMA (tropic) directly without using the apps. The algorithm is the same with the one used in the apps.
    - **CCDC_SMA_tropic_by_grid**: This script allows users to run CCDC-SMA (tropic) by grid. Use the script named "Creat_grid" to create grid first and then run this script. It is recommended to run CCDC-SMA by grid if your region is too large. 
-   - **CCDC_run**: This is an example script to run CCDC (with the original) by grid. You can also change the "saveRegion" to a region. To be able to run this code, you will need to use your own grid or region. You can use the script "Create_grid" to create grids.
-   - **CCDC_land_cover_classification**: This is an example script of using training data and CCDC coefficients to create land cover maps. To run the code, you will need to use the CCDC assets from "CCDC_run".
    - **Create_grid**: This script allows users to break a study region by grid. You can use the grids created from this script to run CCDC-SMA by grid. 
 
 
