@@ -28,7 +28,7 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
 
 ## 1. apps
 
-  - **CCDC_SMA_advanced_app**: ![Image of CCDC_SMA_advanced_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_temperate_advanced_app.png) This app runs the CCDC-SMA model (temperate, advanced version). The advanced version uses different indices and thresholds for different types of forests, explained in the paper. To run this app:
+  - **CCDC_SMA_advanced_app**: ![Image of CCDC_SMA_advanced_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/Temperature_advanced_C2.png) This app runs the CCDC-SMA model (temperate, advanced version). The advanced version uses different indices and thresholds for different types of forests, explained in the paper. To run this app:
       - Enter the GEE asset ids of your study region and forest mask, and specify the value of forest types in the forest mask. Click the "load data" button to add a layer of study region, and "load forest mask" to add a layer of different forest types. 
       - Specify the start and end year of your study period, and the start and end day (in Julian dates) of a year to run analysis. 
       - Check the boxes to export the results as assets in GEE. The default setting would only export the first year of disturbance, since the full segment results will take longer to export.
@@ -36,12 +36,12 @@ There are different versions of CCDC-SMA for temperate region (Under the folder 
       - After the task is finished, enter the GEE asset id of the disturbance year and click "view year of change" to display.
       - The full segment results include forest degradation type (1 for gradual only, 2 for abrupt only, and 3 for both), start year of gradual change ("tStart"), end year of gradual change ("tEnd") and year of abrupt change ("tBreak").
      
-   - **CCDC_SMA_basic_app**: ![CCDC_SMA_basic_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_temperate_basic_app.png) This app runs the CCDC-SMA model (temperate, basic version). To run the basic version, you only need a forest mask and classification of different forest types is not required. To run this app:
+   - **CCDC_SMA_basic_app**: ![CCDC_SMA_basic_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/Temperature_basic_C2.png) This app runs the CCDC-SMA model (temperate, basic version). To run the basic version, you only need a forest mask and classification of different forest types is not required. To run this app:
      - Enter the GEE asset ids of your study region and forest mask. Click the "load data" buttons to add the inputs.
      - Specify the timing in the settings.
      - Similar to the advanced version, run CCDC-SMA, export and view the results. 
     
-   - **CCDC_SMA_tropic_app**: ![CCDC_SMA_basic_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/CCDC_SMA_tropic_short.png) This app runs the CCDC-SMA model (tropic version). To run the tropic version, you only need a forest mask and classification of different forest types is not required. To run this app:
+   - **CCDC_SMA_tropic_app**: ![CCDC_SMA_basic_app](https://github.com/shijuanchen/forest_degradation_georgia/blob/master/Tropic_C2.png) This app runs the CCDC-SMA model (tropic version). To run the tropic version, you only need a forest mask and classification of different forest types is not required. To run this app:
      - Similar to the basic version and advanced version, run CCDC-SMA, export and view the results. 
      - Since gradual degradation is rare in the tropics as vegetation recovers fast, the outputs only include the years of the abrupt changes. 
   
