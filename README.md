@@ -2,7 +2,7 @@
 
 # CCDC-SMA Guidance
 
-### *🎉 News (06/03/2022): Several scripts to prepare forest mask and create strata of forest degradation, deforestation, stable forest and non-forest were added to the "Optional" folder.* 
+### *🎉 News (03/11/2025): Fixed a bug in the time series plotter to properly display images when clicking a point in the time series plot.  
 #### *Previous updates:*
 #### *1. CCDC-SMA using Landsat collection2 (including Landsat 9) is available now!*
 #### *2. Now you can run CCDC-SMA by grid if your study area is large!*
